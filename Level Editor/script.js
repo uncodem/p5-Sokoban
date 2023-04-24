@@ -1,7 +1,7 @@
 "use strict";
 
-const m_width = 9;
-const m_height = 9;
+const m_width = 20;
+const m_height = 16;
 let s_width, s_height;
 let m_data = new Array(m_width*m_height);
 
